@@ -1,12 +1,10 @@
-<!-- FIXME title -->
 # APP NAME
 
-<!--![un license](https://img.shields.io/github/license/RyosukeDTomita/<your-repository>)-->
+[!un license](https://img.shields.io/github/license/RyosukeDTomita/nikto_py)
 
 ## INDEX
 
 - [ABOUT](#about)
-- [LICENSE](#license)
 - [ENVIRONMENT](#environment)
 - [PREPARING](#preparing)
 - [HOW TO USE](#how-to-use)
@@ -15,18 +13,13 @@
 
 ## ABOUT
 
----
-
-## LICENSE
-
----
-
-<!-- NOLICENSE or MIT? -->
-[FIXME](./LICENSE)
+Web Application Scanner like nikto
 
 ---
 
 ## ENVIRONMENT
+
+- Python: 3.12.4
 
 ---
 
