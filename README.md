@@ -13,8 +13,7 @@
 
 ## ABOUT
 
-Web Application Scanner like nikto
-
+Web Application Scanner like [nikto](https://github.com/sullo/nikto/tree/master/program/templates) written in Python
 ---
 
 ## ENVIRONMENT
